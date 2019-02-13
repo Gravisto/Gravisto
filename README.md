@@ -14,7 +14,7 @@ Import [gravisto.psf](https://github.com/Gravisto/Gravisto/blob/master/gravisto.
 
 Gravisto is licensed under the [GPL](http://www.gnu.org/licenses/old-licenses/gpl-1.0.html)
 
-## More information
+## More Information
 
 Have a look at [treejuggler.org](http://www.treejuggler.org) for some articles about Gravisto and TreeJuggler
 
