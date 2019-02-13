@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<psf version="2.0">
+<provider id="org.eclipse.egit.core.GitProvider">
+<project reference="1.0,https://github.com/Gravisto/Gravisto.git,master,Graffiti_Core"/>
+<project reference="1.0,https://github.com/Gravisto/Gravisto.git,master,Graffiti_Editor"/>
+<project reference="1.0,https://github.com/Gravisto/Gravisto.git,master,Graffiti_lib"/>
+<project reference="1.0,https://github.com/Gravisto/Gravisto.git,master,Graffiti_Plugins"/>
+</provider>
+</psf>
