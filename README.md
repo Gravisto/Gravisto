@@ -8,7 +8,7 @@ Unfortunately, this open source project had recently become homeless and needed 
 
 ## Getting Started
 
-Import [gravisto.psf](https://github.com/Gravisto/Gravisto/blob/master/gravisto.psf) into Eclipse ( File > Import > Team Project Set ). Afterwards you should have launch configurations for 64 and 32 bit available in your Eclipse IDE.
+Import [gravisto.psf](https://github.com/Gravisto/Gravisto/blob/master/gravisto.psf) into Eclipse ( File -> Import -> Team Project Set ). Afterwards you should have launch configurations for 64 and 32 bit available in your Eclipse IDE.
 
 ## License
 
