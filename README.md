@@ -16,6 +16,6 @@ Gravisto is licensed under the [GPL](http://www.gnu.org/licenses/old-licenses/gp
 
 ## More Information
 
-Have a look at [treejuggler.org](http://www.treejuggler.org) for some articles about Gravisto and TreeJuggler
+Have a look at [treejuggler.org](https://www.treejuggler.org) for some articles about Gravisto and TreeJuggler
 
 There will be more material/information coming soon.
